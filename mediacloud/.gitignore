@@ -1,0 +1,8 @@
+*
+!embeddings/
+!scored/
+!scraped/
+!*.ipynb
+!*.py
+!README.md
+!.gitignore
